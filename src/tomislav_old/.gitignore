@@ -1,0 +1,11 @@
+tomislav/resources/__pycache__/SteamID.cpython-310.pyc
+*.out
+tomislav/resources/valve/__pycache__/__init__.cpython-310.pyc
+tomislav/resources/valve/__pycache__/rcon.cpython-310.pyc
+*.pyc
+*.log
+*.pyc
+tomislav/resources/textgenrnn/__pycache__/__init__.cpython-310.pyc
+tomislav/resources/textgenrnn/__pycache__/AttentionWeightedAverage.cpython-310.pyc
+*.pyc
+message_logs.txt

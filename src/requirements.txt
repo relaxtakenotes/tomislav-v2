@@ -1,0 +1,8 @@
+flask
+cryptography
+discord
+httpx
+mcstatus
+ping3
+gunicorn
+psutil

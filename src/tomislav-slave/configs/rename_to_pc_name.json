@@ -1,0 +1,14 @@
+{
+	"password": "uniquepassword5",
+    "encryption_key": "encpass",
+	"logs_dir": ["/home/steam/servers/tf2/tf/logs/"],
+	"bans_files": ["/home/steam/servers/tf2/tf/cfg/banned_ip.cfg", "/home/steam/servers/tf2/tf/cfg/banned_user.cfg"],
+	"update_scripts": [{
+					   "update_script": "sudo /home/steam/steamcmd/./steamcmd.sh +force_install_dir /home/steam/servers/tf2 +login anonymous +app_update 232250 validate +quit",
+					   "server_restart_cmd": "sudo systemctl restart tf2server"
+					  }],
+	"email": "emailfornotifs",
+	"search_exe": "/home/steam/tomislav-v2/dir_search/./tf2search",
+	"nfo_capture": true, 
+	"nfo_servers": [{"login": "mail", "password": "password", "name": "name"}]
+}

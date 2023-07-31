@@ -1,0 +1,10 @@
+{
+	"token": "bottoken",
+	"encryption_key": "encpass",
+	"servers": ["address_of_a_slave_server:uniquepassword5"],
+	"rcon_servers": ["src_engine_server_address:rcon_password"],
+	"whitelisted_guilds": [12893173197323123123123123],
+	"proxycheck_key": "check proxycheck.io",
+	"steamapi_key": "keywow",
+	"admins": [901283219031902309123]
+}

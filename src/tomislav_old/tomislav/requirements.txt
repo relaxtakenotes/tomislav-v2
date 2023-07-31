@@ -1,0 +1,12 @@
+docopt
+monotonic
+six
+discord.py
+psutil
+ping3
+asyncio
+youtube-search-python
+steamid_converter
+mcstatus
+httpx
+ipaddress
